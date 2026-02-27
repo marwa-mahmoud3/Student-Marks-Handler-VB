@@ -1,0 +1,71 @@
+D:\My works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.exe
+D:\My works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.deps.json
+D:\My works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.runtimeconfig.json
+D:\My works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.runtimeconfig.dev.json
+D:\My works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.dll
+D:\My works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\ref\LT2_118165_Sec10.dll
+D:\My works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.pdb
+D:\My works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.vbprojAssemblyReference.cache
+D:\My works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.Form1.resources
+D:\My works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.vbproj.GenerateResource.cache
+D:\My works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.GeneratedMSBuildEditorConfig.editorconfig
+D:\My works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.AssemblyInfoInputs.cache
+D:\My works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.AssemblyInfo.vb
+D:\My works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.vbproj.CoreCompileInputs.cache
+D:\My works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.dll
+D:\My works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\ref\LT2_118165_Sec10.dll
+D:\My works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.pdb
+D:\My works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.genruntimeconfig.cache
+D:\works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.exe
+D:\works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.deps.json
+D:\works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.runtimeconfig.json
+D:\works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.runtimeconfig.dev.json
+D:\works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.dll
+D:\works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\ref\LT2_118165_Sec10.dll
+D:\works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.pdb
+D:\works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.vbproj.AssemblyReference.cache
+D:\works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.Form1.resources
+D:\works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.vbproj.GenerateResource.cache
+D:\works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.GeneratedMSBuildEditorConfig.editorconfig
+D:\works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.AssemblyInfoInputs.cache
+D:\works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.AssemblyInfo.vb
+D:\works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.vbproj.CoreCompileInputs.cache
+D:\works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.dll
+D:\works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\ref\LT2_118165_Sec10.dll
+D:\works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.pdb
+D:\works\5amsat\6\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.genruntimeconfig.cache
+D:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.exe
+D:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.deps.json
+D:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.runtimeconfig.json
+D:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.runtimeconfig.dev.json
+D:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.dll
+D:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.pdb
+D:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.vbproj.AssemblyReference.cache
+D:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.Form1.resources
+D:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.vbproj.GenerateResource.cache
+D:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.GeneratedMSBuildEditorConfig.editorconfig
+D:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.AssemblyInfoInputs.cache
+D:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.AssemblyInfo.vb
+D:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.vbproj.CoreCompileInputs.cache
+D:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.dll
+D:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\refint\LT2_118165_Sec10.dll
+D:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.pdb
+D:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.genruntimeconfig.cache
+D:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\ref\LT2_118165_Sec10.dll
+E:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.exe
+E:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.deps.json
+E:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.runtimeconfig.json
+E:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.runtimeconfig.dev.json
+E:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.dll
+E:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\bin\Debug\net5.0-windows\LT2_118165_Sec10.pdb
+E:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.Form1.resources
+E:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.vbproj.GenerateResource.cache
+E:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.GeneratedMSBuildEditorConfig.editorconfig
+E:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.AssemblyInfoInputs.cache
+E:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.AssemblyInfo.vb
+E:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.vbproj.CoreCompileInputs.cache
+E:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.dll
+E:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\refint\LT2_118165_Sec10.dll
+E:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.pdb
+E:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\LT2_118165_Sec10.genruntimeconfig.cache
+E:\works\13 Visual Basic app\LT2_118165_Sec10\LT2_118165_Sec10\obj\Debug\net5.0-windows\ref\LT2_118165_Sec10.dll

@@ -1,0 +1,5 @@
+COMP2105,Problem Solving,3,Computer Science
+PHYS2101,General Physics 1,4,Physics
+MATH2114,Introduction to Algebra,2,Maths
+CHEM2101,General Chemistry,4,Chemistry
+ERSC2101,Introduction to Geology,4,Earth Science

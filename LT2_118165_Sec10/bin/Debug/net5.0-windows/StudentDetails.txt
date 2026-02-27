@@ -1,0 +1,13 @@
+472977,Jhon,Computer Science,Computer Science
+237382,George,Maths,Maths
+141933,BenStokes,Physics,Physics
+270612,Smith,Chemistry,Chemistry
+251493,Hanna,Earth Science,Earth Science
+237306,Sarah,Computer Science,Computer Science
+67526,Gayle,Maths,Maths
+509997,Chris,Physics,Physics
+852587,Paul,Chemistry,Chemistry
+76399,Cristiano,Earth Science,Earth Science
+122043,Ronaldo,Physics,Physics
+313692,Pogba,Chemistry,Chemistry
+846477,Ole,Earth Science,Earth Science
